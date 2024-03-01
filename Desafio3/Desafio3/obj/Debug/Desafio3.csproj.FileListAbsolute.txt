@@ -1,0 +1,7 @@
+C:\Users\Lucia Sandoval\source\repos\Desafio3\Desafio3\bin\Debug\Desafio3.exe.config
+C:\Users\Lucia Sandoval\source\repos\Desafio3\Desafio3\bin\Debug\Desafio3.exe
+C:\Users\Lucia Sandoval\source\repos\Desafio3\Desafio3\bin\Debug\Desafio3.pdb
+C:\Users\Lucia Sandoval\source\repos\Desafio3\Desafio3\obj\Debug\Desafio3.csproj.AssemblyReference.cache
+C:\Users\Lucia Sandoval\source\repos\Desafio3\Desafio3\obj\Debug\Desafio3.csproj.CoreCompileInputs.cache
+C:\Users\Lucia Sandoval\source\repos\Desafio3\Desafio3\obj\Debug\Desafio3.exe
+C:\Users\Lucia Sandoval\source\repos\Desafio3\Desafio3\obj\Debug\Desafio3.pdb
